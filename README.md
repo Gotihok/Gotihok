@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm starting backend developer, looking for intern ship.<br>I'm currently working on a java game engine from scratch to boost my skills<br>I'm open to new acquaintances and projects
+I'm starting backend developer, looking for internship.<br>I'm open to new acquaintances and projects
 
 
 ## 🌐 Socials:
